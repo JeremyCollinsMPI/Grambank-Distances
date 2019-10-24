@@ -1,1 +1,1 @@
-docker run -it --rm -v $PWD:/directory grambank /bin/bash
+docker run -it --rm -v $PWD:/directory jeremycollinsmpi/grambank:latest /bin/bash
